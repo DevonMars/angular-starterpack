@@ -5,5 +5,5 @@
 
 export const environment = {
   production: true,
-  serverUrl: 'https://node-mongodb-server.herokuapp.com/api/v1'
+  serverUrl: 'https://no-mongo-dbserver.herokuapp.com/api/v1'
 };
